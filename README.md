@@ -1,6 +1,6 @@
 # jokes
 
-Just a silly clojure app that makes a get request and save it response in a database.
+Just a silly clojure app that makes a get request and save its response in a database.
 
 ## Usage
 
